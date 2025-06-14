@@ -1,0 +1,2 @@
+# Exploring-Activity-Patterns-with-Sequence-Pattern-Mining-and-Clustering-on-Fitbit-LifeSnaps
+Proyek Eksplorasi Pola Aktivitas-Tidur dengan Sequence Pattern Mining dan Clustering pada Fitbit LifeSnaps adalah proyek akhir dari mata kuliah Data Mining. Proyek ini menganalisis pola aktivitas harian dan kesehatan mental pengguna untuk mengelompokkan gaya hidup menggunakan algoritma PrefixSpan dan K-Means.
