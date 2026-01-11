@@ -1,6 +1,12 @@
 # 📊 Eksplorasi Pola Aktivitas & Tidur Pengguna Fitbit
 ### Sequence Pattern Mining & Clustering pada Dataset Fitbit LifeSnaps
 
+
+## 🪧 Poster Proyek
+<p align="center">
+  <img src="fitbit-exploration-poster.png" width="700">
+</p>
+
 ## 🧠 Deskripsi Proyek
 Proyek ini merupakan **proyek akhir mata kuliah Data Mining** yang berfokus pada analisis **pola aktivitas dan tidur pengguna perangkat Fitbit**.  
 Tujuan utama proyek ini adalah untuk **menggali pola perilaku aktivitas fisik**, mengelompokkan pengguna berdasarkan karakteristik kesehatannya, serta memahami hubungan antara **gaya hidup, kondisi emosional, dan profil psikologis**.
